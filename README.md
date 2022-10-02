@@ -1,4 +1,4 @@
-                                                    ** Tic-Tac-Toe **
+**Tic-Tac-Toe**
 
 We made a two-player game using C++ and different library functions. The user can either choose to play against the computer or another player. The program announces whether a player wins, or the game is draw.
 
